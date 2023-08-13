@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Juwon
-- 👀 I’m interested in Learning Languages, Studying Android
-- 🌱 I’m currently learning Kotlin for Android
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning foreign languages. and also programming languages
+- 🌱 I’m currently learning Spring Boot, React.js
 - 📫 How to reach me wndnjs1839@gmail.com
 
 <!---
